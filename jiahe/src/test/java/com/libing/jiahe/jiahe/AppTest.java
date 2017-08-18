@@ -38,7 +38,7 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
-    public void testApp1()
+    public void testApp2()
     {
         assertTrue( true );
     }
